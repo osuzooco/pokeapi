@@ -40,7 +40,7 @@ This repository contains a Python script that serves as a minimal interface to t
    ```
    (Also this directly in the file)
 
-   ## Chamgelog
+   ## Changelog
   ```bash
    chmod +x changelog.sh
    ```
