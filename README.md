@@ -76,5 +76,17 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for mo
 
 - [PokéAPI](https://pokeapi.co/) for the free Pokémon API.
 
+  ## Releases
+
+I will upload a release every two weeks or earlier.
+
+Bye, nice day!
+
+
+                           ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ  by mishu, for learning.
+
 ---
 
