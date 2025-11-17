@@ -2,7 +2,7 @@
 
 # PokeAPI Python Script
 
-This repository contains a single Python script that serves as a minimal interface to the [PokéAPI](https://pokeapi.co/), a free, open RESTful API for Pokémon data. With this script, you can fetch and display information about Pokémon, their types, charcateristics directly from the command line or within your Python projects.
+This repository contains a Python script that serves as a minimal interface to the [PokéAPI](https://pokeapi.co/), a free, open RESTful API for Pokémon data. With this script, you can fetch and display information about Pokémon, their types, charcateristics directly from the command line or within your Python projects. Also haves a changelog.sh file for seeing if PokeAPI is avaliable, that means that my pokeapi is still active.
 
 ## Features
 
@@ -40,6 +40,14 @@ This repository contains a single Python script that serves as a minimal interfa
    ```
    (Also this directly in the file)
 
+   ## Chamgelog
+  ```bash
+   chmod +x changelog.sh
+   ```
+and then...
+  ```bash
+   ./changelog.sh
+   ```
 ## Example Output
 
 ```
